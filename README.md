@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Muhammed Yassin Ahmed
+- 👋 Hi, I’m @Muhammed Yassin Ahmed, student at faculty of computer and artificial intelligence at Cairo university
 - 👀 I’m interested in Networking, Cyber Security amd machine learning
-- 🌱 I’m currently learning in IT field in faculty of computer and artificial intelligence at Cairo university
+- 🌱 I’m currently learning in IT field 
 - 💞️ I’m looking to collaborate on skillfull and cooperative projects
 - 📫 You can reach me through my mail: muhammed.yassin369@gmail.com
 
